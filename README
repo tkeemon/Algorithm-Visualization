@@ -1,0 +1,14 @@
+Algorithm Visualization
+
+MATLAB code written to help visualize certain algorithms. At the moment, only the following search algorithms are supported in the form of maze navigation:
+	-Depth first search
+	-Breadth first search 
+	-Greedy search
+	-A* search
+
+New algorithms will be added periodically, including a visualizer for expectation maximization (emgauss.m).	
+	
+Questions and comments are welcome.
+
+TJ Keemon <keemon@bc.edu>
+Last updated: 10/18/2010
